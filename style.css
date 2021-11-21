@@ -1,0 +1,34 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    background-color:aqua;
+}
+.header_div{
+background-color:ghostwhite ;
+color: lightseagreen;
+}
+
+.header_div p{
+    font-family:sans-serif;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: fantasy;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: navy;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: ghostwhite;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+    font-family: 'Oswald', sans-serif; font-family: 'Press Start 2P', cursive;
+}
